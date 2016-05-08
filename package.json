@@ -1,0 +1,24 @@
+{
+  "name": "a73-inuit-md-icon-settings",
+  "version": "0.1.0",
+  "description": "Font Icon settings to use within InuitCSS, based on Material Design font from google",
+  "main": "_settings.md-icon.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a73-inuit/settings.md-icon.git"
+  },
+  "author": "Rodrigo Erades <rerades@siete3.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a73-inuit/settings.md-icon/issues"
+  },
+  "homepage": "hhttps://github.com/a73-inuit/settings.md-icon",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css",
+    "font icon",
+    "inuit village",
+    "Material Design"
+  ]
+}
